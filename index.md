@@ -4,4 +4,5 @@
 #### Header 4
 ##### Header 5
 ###### Header 6
-Testing Headers in Markdown
+Testing Headers in Markdown  
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)  
